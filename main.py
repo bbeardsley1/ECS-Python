@@ -41,7 +41,9 @@ DP1  - Day 1 Practice
 DP2  - Day 2 Practice
 DP3  - Day 3 Practice
 DP4  - Day 4 Practice
-DP5  - Day 5 Practice
+DP5A - Day 5 Practice A
+DP5B - Day 5 Practice B
+DP5C - Day 5 Practice C
 DP6  - Day 6 Practice
 DP7  - Day 7 Practice
 
@@ -67,8 +69,12 @@ QUIT - Quit probram
         run_program("day_3_practice.py")
     elif script == "DP4":
         run_program("day_4_practice.py")
-    elif script == "DP5":
-        run_program("day_5_practice.py")
+    elif script == "DP5A":
+        run_program("day_5_practice_a.py")
+    elif script == "DP5B":
+        run_program("day_5_practice_b.py")
+    elif script == "DP5C":
+        run_program("day_5_practice_c.py")
     elif script == "DP6":
         run_program("day_6_practice.py")
     elif script == "DP7":
